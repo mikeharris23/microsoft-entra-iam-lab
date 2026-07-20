@@ -18,3 +18,14 @@ management, and prepare for Zero Trust security controls.
 - Apply least-privilege access
 - Establish a repeatable onboarding and offboarding process
 - Prepare the environment for MFA and Conditional Access
+
+
+
+| Department             | Code | Purpose                                 |
+| ---------------------- | ---: | --------------------------------------- |
+| Executive              | EXEC | Senior leadership                       |
+| Information Technology |   IT | Technology and identity administration  |
+| Mortgage Operations    | MORT | Loan processing and mortgage services   |
+| Compliance and Risk    | COMP | Auditing, risk and regulatory oversight |
+| Finance                |  FIN | Accounting and financial reporting      |
+| Human Resources        |   HR | Employee lifecycle management           |
